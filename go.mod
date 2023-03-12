@@ -1,3 +1,3 @@
-module github.com/pkg-id/go-pkg-template
+module github.com/pkg-id/uuid
 
 go 1.19
